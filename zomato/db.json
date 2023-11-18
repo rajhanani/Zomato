@@ -1,0 +1,227 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "name": "Trending This Week",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/a9aef17423b92b3f8632c4b1887c2839_1647259955.jpg?output-format=webp"
+    },
+    {
+      "id": 2,
+      "name": "Gujarati Thali",
+      "places": "3 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/633e9a523bc441acf1dc13a7899b1c90_1618312187.jpg?output-format=webp"
+    },
+    {
+      "id": 3,
+      "name": "Best Pizza Places In Town",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/178b0ddc2dcb90698f3e25bdaf12142d_1618469439.jpg?output-format=webp"
+    },
+    {
+      "id": 4,
+      "name": "Sweet Tooth",
+      "places": "5 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/cf3ee1808f7c9233819dbcf20a8ca077_1647261043.jpg?output-format=webp"
+    }
+  ],
+  "locations": [
+    {
+      "id": 112,
+      "placename": "Alkapuri",
+      "numberofplaces": "297 places"
+    },
+    {
+      "id": 212,
+      "placename": "Vadiwadi",
+      "numberofplaces": "112 places"
+    },
+    {
+      "id": 312,
+      "placename": "Diwalipura",
+      "numberofplaces": "412 places"
+    },
+    {
+      "id": 412,
+      "placename": "Fatehguj",
+      "numberofplaces": "175 places"
+    },
+    {
+      "id": 512,
+      "placename": "Akota",
+      "numberofplaces": "274 places"
+    },
+    {
+      "id": 612,
+      "placename": "Karelibag",
+      "numberofplaces": "360 places"
+    },
+    {
+      "id": 712,
+      "placename": "Subhanpura",
+      "numberofplaces": "226 places"
+    },
+    {
+      "id": 812,
+      "placename": "Amitnagar",
+      "numberofplaces": "178 places"
+    },
+    {
+      "id": 912,
+      "placename": "Gotri",
+      "numberofplaces": "178 places"
+    }
+  ],
+  "posts": [
+    {
+      "name": "Raj Hanani",
+      "email": "raj.hanani@archesoftronix.com",
+      "number": "54544",
+      "city": "vadodara",
+      "password": "3222",
+      "id": 1
+    },
+    {
+      "name": "saurav kishan",
+      "email": "sk@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "ankit sinh zala ",
+      "email": "ankit@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "yuvraj sinh rana",
+      "email": "yuvi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "harshil seth",
+      "email": "harshil@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "nihar parikh",
+      "email": "nihar@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "twinke parmar",
+      "email": "twimkle@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "krunal",
+      "email": "krunal@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "kinjal ",
+      "email": "kinjal@gmail.com",
+      "id": 9
+    }
+  ],
+  "carditems": [
+    {
+      "id": 21,
+      "item_image": "https://b.zmtcdn.com/data/pictures/chains/7/19967197/364c47169e854c8b24f2e4d3784f4384.jpg?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Pizaa,Pasta",
+      "item_location": "Nizampura,Vadodara"
+    },
+    {
+      "id": 22,
+      "item_image": "https://content3.jdmagicbox.com/comp/vadodara/b3/0265px265.x265.191224192108.g1b3/catalogue/pizza-hut-alkapuri-vadodara-pizza-outlets-eecwupct7o.jpg",
+      "item_category": "Cold Coffe",
+      "item_location": "Bhayli,Vadodara"
+    },
+    {
+      "id": 23,
+      "item_image": "https://b.zmtcdn.com/data/pictures/chains/6/19503706/b2a36f3b030943cdc9cbdeec50b520dc.png?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Sandwitch,Pasta",
+      "item_location": "Majalpur,Vadodara"
+    },
+    {
+      "id": 24,
+      "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgyIV3DYjiiTKquvTBE6hMdET_uyHEW6gGw&usqp=CAU",
+      "item_category": "Pizaa,Pasta",
+      "item_location": "Gotri,Vadodara"
+    }
+  ],
+  "morecollection": [
+    {
+      "id": 31,
+      "name": "Trending This Week",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/a9aef17423b92b3f8632c4b1887c2839_1647259955.jpg?output-format=webp"
+    },
+    {
+      "id": 32,
+      "name": "Gujarati Thali",
+      "places": "3 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/633e9a523bc441acf1dc13a7899b1c90_1618312187.jpg?output-format=webp"
+    },
+    {
+      "id": 33,
+      "name": "Best Pizza Places In Town",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/178b0ddc2dcb90698f3e25bdaf12142d_1618469439.jpg?output-format=webp"
+    },
+    {
+      "id": 34,
+      "name": "Sweet Tooth",
+      "places": "5 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/cf3ee1808f7c9233819dbcf20a8ca077_1647261043.jpg?output-format=webp"
+    },
+    {
+      "id": 35,
+      "name": "Trending This Week",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/a9aef17423b92b3f8632c4b1887c2839_1647259955.jpg?output-format=webp"
+    },
+    {
+      "id": 36,
+      "name": "Gujarati Thali",
+      "places": "3 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/633e9a523bc441acf1dc13a7899b1c90_1618312187.jpg?output-format=webp"
+    },
+    {
+      "id": 37,
+      "name": "Best Pizza Places In Town",
+      "places": "4 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/178b0ddc2dcb90698f3e25bdaf12142d_1618469439.jpg?output-format=webp"
+    },
+    {
+      "id": 38,
+      "name": "Sweet Tooth",
+      "places": "5 Places",
+      "collectionimg": "https://b.zmtcdn.com/data/collections/cf3ee1808f7c9233819dbcf20a8ca077_1647261043.jpg?output-format=webp"
+    }
+  ],
+  "orderitems": [
+    {
+      "id": 41,
+      "item_image": "https://b.zmtcdn.com/data/pictures/1/3200991/013069a32728ff25fb646e71b054b913.jpg?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Pizaa,Pasta",
+      "item_location": "Amitnagar,Vadodara"
+    },
+    {
+      "id": 42,
+      "item_image": "https://b.zmtcdn.com/data/pictures/chains/1/20107801/352bebcdb3826e9ad52ef6d340179317.jpg?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Cold Coffie",
+      "item_location": "Gotri,Vadodara"
+    },
+    {
+      "id": 43,
+      "item_image": "https://b.zmtcdn.com/data/pictures/chains/3/3200053/8416e958931d6df2a7295e8b62cdc52c.jpg?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Sandwitch,Pasta",
+      "item_location": "Manjalpur,Vadodara"
+    },
+    {
+      "id": 44,
+      "item_image": "https://b.zmtcdn.com/data/pictures/6/19295956/f789aa3adc1ee6b1002f15c58a9470c3.jpg?output-format=webp&fit=around|318.75:231.25&crop=318.75:231.25;*,*",
+      "item_category": "Dhosa,Southindian",
+      "item_location": "Karelibag,Vadodara"
+    }
+  ]
+}

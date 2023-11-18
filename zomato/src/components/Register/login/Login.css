@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.main_sign{
+    width: 35%;
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #d1cfcf;
+   
+}
+
+.main_sign h2{
+    margin-left: 20px;
+    font-weight: lighter;
+    color: rgb(100, 96, 96);
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login_inputs{
+    display: flex;
+    width:90%;
+    align-items: center;
+    justify-content:flex-start;
+    border: 10px;
+    padding: 0px 0px;
+    margin: 20px auto 0px auto;
+    border: 1px solid rgb(202, 219, 234); 
+    background-color: white;
+}
+
+.login_inputs input::placeholder{
+    font-size: 18px;
+}
+
+.select_login{
+    border: none;
+    border-right: 1px solid gray; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(104, 104, 104);
+    padding: 15px;
+}
+
+.login_inputs input{
+    padding: 15px;
+    width: 76%;
+    border-radius: 5px;
+    border: 1px solid rgb(202, 219, 234);
+}
+
+.login_inputs i{
+    font-size: 30px;
+   
+    
+}
+
+.inputs input::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgb(168, 167, 167);
+}
+
+.terms{
+    display: flex;
+    width: 80%;
+    justify-content:start;
+    font-size: 13px;
+    margin: 10px 35px;
+}
+
+.terms p{
+    margin-left: 15px;
+    color: gray;
+    margin-top: 15px;
+    margin-bottom:15px;
+}
+
+.check{
+    width:30px;
+}
+
+.term_red{
+    color: rgb(240, 37, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+.center_btn{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+.center_btn button{
+    width: 85%;
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(241, 42, 39);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+
+}
+
+.center_btn button:hover{
+    background-color: rgb(233, 14, 3);
+}
+
+.google_link{
+    width: 85%;
+    margin:25px auto;
+    background-color:aliceblue;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid rgb(202, 219, 234); 
+}
+
+.google_link a {
+  text-decoration: none;
+  color:gray;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.google_link i{
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.login_link{
+    text-align: center;
+}
+
+.login_link span a{
+    color: rgb(240, 37, 37);
+}
+
+.login_email input{
+    padding: 15px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid rgb(202, 219, 234);
+    margin-left: 23px;
+    margin-top: 20px;
+}
+
+.login_email input::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgb(168, 167, 167);
+}

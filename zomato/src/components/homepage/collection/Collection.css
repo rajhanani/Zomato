@@ -1,0 +1,170 @@
+
+ *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+
+.collction_1 h2{
+    font-size: 1.4rem;
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+
+.collction_1 div{
+    margin-bottom: 30px;
+}
+
+.collction_1 h6{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: lighter;
+    color: gray;
+}
+.box_1{
+    width:45%;
+    height: 350px;
+    position: relative;
+    border-radius:8px;
+    overflow: hidden;
+    margin: 10px;
+    
+}
+
+.box_1 div{
+    position: absolute;
+    background:linear-gradient(transparent,black);
+    width: 100%;
+    height: 25%;
+    bottom: 0;
+    display: flex;
+    align-items: flex-end;
+}
+
+.box_1 div span:first-child{
+    display: inline-block;
+    color: white;
+    padding-left:10px;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.box_1 img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.collection_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    margin-bottom: 30px;
+}
+
+
+.collction_1 div{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.collction_1 span{
+   display: none;
+}
+
+.collction_1{
+    margin-left: 20px;
+} 
+
+
+
+@media only screen and (min-width:1200px) {
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+.collection_main{
+    margin: 60px 150px;
+}
+.collction_1 h2{
+    font-size: 2.7rem;
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+.collction_1 div{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.collction_1 h6{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: lighter;
+    color: gray;
+}
+
+.fa-caret-right{
+    color: rgb(239, 58, 58);
+}
+
+.collction_1 span{
+    color: rgb(239, 58, 58);   
+}
+
+.box_1{
+    width:55%;
+    height: 25rem;
+    position: relative;
+    border-radius:8px;
+    overflow: hidden;
+   
+}
+
+.box_1:hover{
+    
+}
+
+.box_1 div{
+    position: absolute;
+    background:linear-gradient(transparent,black);
+    width: 100%;
+    height: 25%;
+    bottom: 0;
+    display: flex;
+    align-items: flex-end;
+}
+.box_1 div span:first-child{
+    display: inline-block;
+    color: white;
+    padding-left:10px;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+.box_1 img{
+    width:100%;
+    height:25rem;
+    object-fit: cover;
+}
+
+.box_1 i{
+    padding-bottom:10px ;
+    color:white;
+}
+
+.collection_2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+   
+}
+
+}

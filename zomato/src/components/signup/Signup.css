@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.main_sign{
+    width: 35%;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #d1cfcf;
+   
+}
+
+.main_sign h2{
+    margin-left: 20px;
+    font-weight: lighter;
+    color: rgb(100, 96, 96);
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputs{
+    width: 90%;
+    margin: auto;
+}
+
+.inputs input{
+    padding: 15px;
+    margin: 6px;
+    width: 90%;
+    border-radius: 5px;
+    border: 2px solid rgb(202, 219, 234);
+}
+
+.inputs input::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgb(168, 167, 167);
+}
+
+.terms{
+    display: flex;
+    width: 80%;
+    justify-content:start;
+    font-size: 13px;
+    margin: 10px 35px;
+}
+
+.terms p{
+    margin-left: 15px;
+    color: gray;
+    margin-top: 15px;
+    margin-bottom:15px;
+}
+
+.check{
+    width:30px;
+}
+
+.term_red{
+    color: rgb(240, 37, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+.center_btn{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+.center_btn button{
+    width: 85%;
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(39, 160, 241);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.center_btn button:hover{
+    background-color: rgb(4, 108, 177);
+}
+
+.google_link{
+    width: 85%;
+    margin:25px auto;
+    background-color: rgb(238, 244, 225);
+    text-align: center;
+    padding: 10px;
+}
+
+.google_link a {
+  text-decoration: none;
+  color:gray;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.google_link i{
+    margin-right: 20px;
+}
+
+.login_link{
+    text-align: center;
+}
+
+.login_link span a{
+    color: rgb(240, 37, 37);
+}

@@ -1,0 +1,68 @@
+.aco-main{
+    background-color:rgb(252, 252, 252);
+    padding: 4rem 0;
+}
+.aco-title h2{
+    font-size:23px;
+    color: rgb(54, 54, 54);
+    font-weight: 500;
+    margin-bottom: 1.6rem;
+    margin-left: 30px;
+}
+
+.aco_option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(232, 232, 232);
+    color: rgb(28, 28, 28);
+    padding: 1.2rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    background-color: var(--white);
+}
+.aco_option p{
+    font-size: 1.4rem;
+}
+
+.aco_option_main{
+    width: 100%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 992px) {
+    .container{
+      width: auto;
+      margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .aco-main{
+      padding: 4rem 1rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .aco_option_main{
+        width: 80%;
+        margin: auto;
+    }
+    .aco-title h2{
+        font-size:23px;
+        color: rgb(54, 54, 54);
+        font-weight: 500;
+        margin-bottom: 1.6rem;
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .aco-title{
+        width: 83%;
+    }
+}
+

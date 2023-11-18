@@ -1,0 +1,75 @@
+.main{
+    background-color: rgb(235, 246, 247);
+    /* background-color: rgb(255, 246, 240); */
+    width: 550px;
+    margin: auto;
+    padding: 18px;
+    box-shadow: 5px 10px 8px #d1cfcf;
+    border-radius: 15px;
+}
+
+.form input{
+    margin: 10px;
+    padding: 15px;
+    width: 80%;
+    border-right:none;
+    border-left:none; 
+    border-top:none;  
+    border-bottom: 2px solid black;
+    margin-left: 40px;
+   
+}
+
+.form input::placeholder{
+    color: rgb(45, 44, 44);
+    font-size: 15px;
+}
+
+.btn{
+    border: none;
+    background-color:#b90d0d;
+    color: white;
+    padding: 13px 35px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 201px;
+}
+
+.btn:hover{
+    background-color: #f80909;
+}
+
+.sign{
+margin: auto;
+/* background-color: rgb(205, 86, 50); */
+width: 80%;
+text-align: center;
+color: rgb(34, 34, 34);
+padding: 0px 8px;
+border-radius: 10px;
+}
+
+.main_div{
+    padding-top: 50px;
+}
+
+.go_login a {
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.go_login{
+    margin-top: 20px;
+    text-align: center;
+}
+#emailerror{
+    color:red;
+    font-size: 19px;
+}
+#numbererror{
+    color:red;
+    font-size: 19px;
+}

@@ -1,0 +1,196 @@
+.contect img{
+    display: none;
+}
+
+.flex{
+    display: flex;
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.address h2{
+    font-size: 1.7rem;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    color: gray;
+    text-align: center;
+}
+
+.address p{
+    padding-bottom: 10px;
+    margin: 10px;
+    font-size: 0.9rem;
+    color: gray;
+    text-align: center;
+}
+
+.radio{
+    display: flex;
+    justify-content:center;
+    padding-bottom: 20px;
+    
+}
+
+.radio label{
+    font-size: 1.1rem;
+    color: gray;
+}
+
+.radio [type="radio"]{
+    accent-color: rgb(245, 70, 70);
+}
+
+
+.email{
+    position: relative;
+    width: 80%;
+    margin: auto;
+    }
+    
+    .email input{
+        height: 48px;
+        border-radius: 5px;
+        width: 170px;
+        border: 2px solid rgb(160, 197, 230);
+        outline: rgb(252, 50, 50);
+        font-size: 1.3rem;
+        padding-left: 15px;
+       
+    }
+
+    .place{
+        position: absolute;
+         font-size: 1.3rem;
+         left: 15px;
+         top: 13px;
+         color: gray;
+         font-weight: lighter;
+ }
+ 
+ .email button{
+     width: 150px;
+     border-radius: 6px;
+     border: 1px solid rgb(245, 70, 70);
+     background-color: rgb(245, 70, 70);
+     font-size: 1.1rem;
+     margin-left: 6px;
+     color: white;
+     padding: 3px;
+ }
+
+
+
+
+@media only screen and (min-width: 1200px) {
+.ban_sec{
+    display: flex;
+    margin: 90px 0;
+    padding: 40px 0;
+    justify-content: center;
+    background-color:aliceblue ;
+}
+
+.flex{
+    display: flex;
+    width: 760px;
+    overflow: hidden;
+}
+
+.contact{
+    width: 760px;
+    overflow: hidden;
+}
+.contect img{
+    display: block;
+}
+
+.contact img{
+    width: 250px;
+    height: 450px;
+    padding-right: 40px;
+}
+
+.address{
+    width:1600px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.address p{
+    padding-bottom: 10px;
+    font-size: 0.9rem;
+    color: gray;
+}
+
+.address h2{
+    font-size: 2.7rem;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    color: gray;
+}
+
+.radio{
+    display: flex;
+    justify-content:center;
+    margin-right: 230px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.radio label{
+    font-size: 1.1rem;
+    color: gray;
+}
+
+.radio [type="radio"]{
+    accent-color: rgb(245, 70, 70);
+}
+
+.email{
+position: relative;
+}
+
+.email input{
+    height: 40px;
+    border-radius: 5px;
+    width: 270px;
+    border: 1px solid aliceblue;
+    outline: rgb(252, 50, 50);
+    font-size: 1.3rem;
+    padding-left: 15px;
+}
+
+.place{
+       position: absolute;
+        font-size: 1.3rem;
+        left: 15px;
+        top: 13px;
+        color: gray;
+        font-weight: lighter;
+}
+
+.email button{
+    width: 150px;
+    border-radius: 6px;
+    border: 1px solid rgb(245, 70, 70);
+    background-color: rgb(245, 70, 70);
+    font-size: 1.1rem;
+    margin-left: 6px;
+    color: white;
+}
+
+.dowload{
+    font-size: 0.7rem;
+    margin-top: 27px;
+    margin-bottom: 0px;
+    color: gray;
+}
+
+.app img{
+    width: 160px;
+    height: 40px;
+    margin: 0px 10px;
+}
+
+}
